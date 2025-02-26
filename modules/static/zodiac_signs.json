@@ -1,0 +1,184 @@
+{
+  "zodiac_signs": [
+    {
+      "name": {
+        "ru": "Овен",
+        "en": "Aries",
+        "de": "Widder",
+        "fr": "Bélier",
+        "it": "Ariete",
+        "es": "Aries",
+        "zh": "白羊座",
+        "hi": "मेष",
+        "ko": "양자리",
+        "ar": "الحمل"
+      },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+      "name": {
+        "ru": "Телец",
+        "en": "Taurus",
+        "de": "Stier",
+        "fr": "Taureau",
+        "it": "Toro",
+        "es": "Tauro",
+        "zh": "金牛座",
+        "hi": "वृषभ",
+        "ko": "황소자리",
+        "ar": "الثور"
+      },
+      "dates": "20 апреля - 20 мая"
+    },
+    {
+      "name": {
+        "ru": "Близнецы",
+        "en": "Gemini",
+        "de": "Zwillinge",
+        "fr": "Gémeaux",
+        "it": "Gemelli",
+        "es": "Géminis",
+        "zh": "双子座",
+        "hi": "मिथुन",
+        "ko": "쌍둥이자리",
+        "ar": "الجوزاء"
+      },
+      "dates": "21 мая - 20 июня"
+    },
+    {
+      "name": {
+        "ru": "Рак",
+        "en": "Cancer",
+        "de": "Krebs",
+        "fr": "Cancer",
+        "it": "Cancro",
+        "es": "Cáncer",
+        "zh": "巨蟹座",
+        "hi": "कर्क",
+        "ko": "게자리",
+        "ar": "السرطان"
+      },
+      "dates": "21 июня - 22 июля"
+    },
+    {
+      "name": {
+        "ru": "Лев",
+        "en": "Leo",
+        "de": "Löwe",
+        "fr": "Lion",
+        "it": "Leone",
+        "es": "Leo",
+        "zh": "狮子座",
+        "hi": "सिंह",
+        "ko": "사자자리",
+        "ar": "الأسد"
+      },
+      "dates": "23 июля - 22 августа"
+    },
+    {
+      "name": {
+        "ru": "Дева",
+        "en": "Virgo",
+        "de": "Jungfrau",
+        "fr": "Vierge",
+        "it": "Vergine",
+        "es": "Virgo",
+        "zh": "处女座",
+        "hi": "कन्या",
+        "ko": "처녀자리",
+        "ar": "العذراء"
+      },
+      "dates": "23 августа - 22 сентября"
+    },
+    {
+      "name": {
+        "ru": "Весы",
+        "en": "Libra",
+        "de": "Waage",
+        "fr": "Balance",
+        "it": "Bilancia",
+        "es": "Libra",
+        "zh": "天秤座",
+        "hi": "तुला",
+        "ko": "천칭자리",
+        "ar": "الميزان"
+      },
+      "dates": "23 сентября - 22 октября"
+    },
+    {
+      "name": {
+        "ru": "Скорпион",
+        "en": "Scorpio",
+        "de": "Skorpion",
+        "fr": "Scorpion",
+        "it": "Scorpione",
+        "es": "Escorpio",
+        "zh": "天蝎座",
+        "hi": "वृश्चिक",
+        "ko": "전갈자리",
+        "ar": "العقرب"
+      },
+      "dates": "23 октября - 21 ноября"
+    },
+    {
+      "name": {
+        "ru": "Стрелец",
+        "en": "Sagittarius",
+        "de": "Schütze",
+        "fr": "Sagittaire",
+        "it": "Sagittario",
+        "es": "Sagitario",
+        "zh": "射手座",
+        "hi": "धनु",
+        "ko": "궁수자리",
+        "ar": "القوس"
+      },
+      "dates": "22 ноября - 21 декабря"
+    },
+    {
+      "name": {
+        "ru": "Козерог",
+        "en": "Capricorn",
+        "de": "Steinbock",
+        "fr": "Capricorne",
+        "it": "Capricorno",
+        "es": "Capricornio",
+        "zh": "摩羯座",
+        "hi": "मकर",
+        "ko": "염소자리",
+        "ar": "الجدي"
+      },
+      "dates": "22 декабря - 19 января"
+    },
+    {
+      "name": {
+        "ru": "Водолей",
+        "en": "Aquarius",
+        "de": "Wassermann",
+        "fr": "Verseau",
+        "it": "Acquario",
+        "es": "Acuario",
+        "zh": "水瓶座",
+        "hi": "कुंभ",
+        "ko": "물병자리",
+        "ar": "الدلو"
+      },
+      "dates": "20 января - 18 февраля"
+    },
+    {
+      "name": {
+        "ru": "Рыбы",
+        "en": "Pisces",
+        "de": "Fische",
+        "fr": "Poissons",
+        "it": "Pesci",
+        "es": "Piscis",
+        "zh": "双鱼座",
+        "hi": "मीन",
+        "ko": "물고기자리",
+        "ar": "الحوت"
+      },
+      "dates": "19 февраля - 20 марта"
+    }
+  ]
+}

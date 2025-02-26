@@ -1,0 +1,172 @@
+{
+    "zodiac_signs": [
+        {
+            "name": "Овен",
+            "language": "ru",
+            "description": "Овен — первый знак зодиака. Люди, рожденные под этим знаком, энергичны, решительны и амбициозны. Они любят быть лидерами и всегда стремятся к новым целям.",
+            "image_url": "https://example.com/images/aries_ru.jpg",
+            "associated_trees": ["Рябина", "Клён", "Орешник"]
+        },
+        {
+            "name": "Aries",
+            "language": "en",
+            "description": "Aries is the first sign of the zodiac. People born under this sign are energetic, decisive, and ambitious. They love being leaders and always strive for new goals.",
+            "image_url": "https://example.com/images/aries_en.jpg",
+            "associated_trees": ["Rowan", "Maple", "Hazelnut"]
+        },
+        {
+            "name": "Телец",
+            "language": "ru",
+            "description": "Телец — второй знак зодиака. Люди, рожденные под этим знаком, практичны, надежны и ценят стабильность. Они обладают сильным характером и любят комфорт.",
+            "image_url": "https://example.com/images/taurus_ru.jpg",
+            "associated_trees": ["Жасмин", "Каштан", "Орех"]
+        },
+        {
+            "name": "Taurus",
+            "language": "en",
+            "description": "Taurus is the second sign of the zodiac. People born under this sign are practical, reliable, and value stability. They have a strong character and love comfort.",
+            "image_url": "https://example.com/images/taurus_en.jpg",
+            "associated_trees": ["Jasmine", "Chestnut", "Walnut"]
+        },
+        {
+            "name": "Близнецы",
+            "language": "ru",
+            "description": "Близнецы — третий знак зодиака. Люди, рожденные под этим знаком, общительны, гибки и любопытны. Они легко адаптируются к изменениям и обладают аналитическим умом.",
+            "image_url": "https://example.com/images/gemini_ru.jpg",
+            "associated_trees": ["Ясень", "Граб", "Инжир"]
+        },
+        {
+            "name": "Gemini",
+            "language": "en",
+            "description": "Gemini is the third sign of the zodiac. People born under this sign are sociable, flexible, and curious. They adapt easily to changes and possess an analytical mind.",
+            "image_url": "https://example.com/images/gemini_en.jpg",
+            "associated_trees": ["Ash", "Hornbeam", "Fig"]
+        },
+        {
+            "name": "Рак",
+            "language": "ru",
+            "description": "Рак — четвертый знак зодиака. Люди, рожденные под этим знаком, эмоциональны, заботливы и семейны. Они обладают сильной интуицией и часто руководствуются чувствами.",
+            "image_url": "https://example.com/images/cancer_ru.jpg",
+            "associated_trees": ["Яблоня", "Пихта", "Берёза"]
+        },
+        {
+            "name": "Cancer",
+            "language": "en",
+            "description": "Cancer is the fourth sign of the zodiac. People born under this sign are emotional, caring, and family-oriented. They possess strong intuition and often act based on feelings.",
+            "image_url": "https://example.com/images/cancer_en.jpg",
+            "associated_trees": ["Apple", "Fir", "Birch"]
+        },
+        {
+            "name": "Лев",
+            "language": "ru",
+            "description": "Лев — пятый знак зодиака. Люди, рожденные под этим знаком, уверены в себе, харизматичны и обладают лидерскими качествами. Они любят быть в центре внимания.",
+            "image_url": "https://example.com/images/leo_ru.jpg",
+            "associated_trees": ["Кипарис", "Тополь", "Каркас Южный"]
+        },
+        {
+            "name": "Leo",
+            "language": "en",
+            "description": "Leo is the fifth sign of the zodiac. People born under this sign are confident, charismatic, and possess leadership qualities. They love being in the spotlight.",
+            "image_url": "https://example.com/images/leo_en.jpg",
+            "associated_trees": ["Cypress", "Poplar", "Southern Hackberry"]
+        },
+        {
+            "name": "Дева",
+            "language": "ru",
+            "description": "Дева — шестой знак зодиака. Люди, рожденные под этим знаком, практичны, организованны и педантичны. Они обладают аналитическим умом и вниманием к деталям.",
+            "image_url": "https://example.com/images/virgo_ru.jpg",
+            "associated_trees": ["Сосна", "Ива", "Липа", "Маслина"]
+        },
+        {
+            "name": "Virgo",
+            "language": "en",
+            "description": "Virgo is the sixth sign of the zodiac. People born under this sign are practical, organized, and meticulous. They possess an analytical mind and attention to detail.",
+            "image_url": "https://example.com/images/virgo_en.jpg",
+            "associated_trees": ["Pine", "Willow", "Linden", "Olive"]
+        },
+        {
+            "name": "Весы",
+            "language": "ru",
+            "description": "Весы — седьмой знак зодиака. Люди, рожденные под этим знаком, гармоничны, дипломатичны и обладают хорошим вкусом. Они стремятся к равновесию и справедливости.",
+            "image_url": "https://example.com/images/libra_ru.jpg",
+            "associated_trees": ["Рябина", "Клён", "Орешник"]
+        },
+        {
+            "name": "Libra",
+            "language": "en",
+            "description": "Libra is the seventh sign of the zodiac. People born under this sign are harmonious, diplomatic, and possess good taste. They strive for balance and justice.",
+            "image_url": "https://example.com/images/libra_en.jpg",
+            "associated_trees": ["Rowan", "Maple", "Hazelnut"]
+        },
+        {
+            "name": "Скорпион",
+            "language": "ru",
+            "description": "Скорпион — восьмой знак зодиака. Люди, рожденные под этим знаком, страстны, решительны и обладают сильной волей. Они скрытны, но глубоко чувствуют.",
+            "image_url": "https://example.com/images/scorpio_ru.jpg",
+            "associated_trees": ["Жасмин", "Каштан", "Орех"]
+        },
+        {
+            "name": "Scorpio",
+            "language": "en",
+            "description": "Scorpio is the eighth sign of the zodiac. People born under this sign are passionate, determined, and possess strong willpower. They are secretive but feel deeply.",
+            "image_url": "https://example.com/images/scorpio_en.jpg",
+            "associated_trees": ["Jasmine", "Chestnut", "Walnut"]
+        },
+        {
+            "name": "Стрелец",
+            "language": "ru",
+            "description": "Стрелец — девятый знак зодиака. Люди, рожденные под этим знаком, свободолюбивы, оптимистичны и любят приключения. Они обладают философским складом ума.",
+            "image_url": "https://example.com/images/sagittarius_ru.jpg",
+            "associated_trees": ["Ясень", "Граб", "Инжир"]
+        },
+        {
+            "name": "Sagittarius",
+            "language": "en",
+            "description": "Sagittarius is the ninth sign of the zodiac. People born under this sign are freedom-loving, optimistic, and love adventures. They possess a philosophical mind.",
+            "image_url": "https://example.com/images/sagittarius_en.jpg",
+            "associated_trees": ["Ash", "Hornbeam", "Fig"]
+        },
+        {
+            "name": "Козерог",
+            "language": "ru",
+            "description": "Козерог — десятый знак зодиака. Люди, рожденные под этим знаком, трудолюбивы, амбициозны и ценят стабильность. Они обладают сильным чувством долга.",
+            "image_url": "https://example.com/images/capricorn_ru.jpg",
+            "associated_trees": ["Яблоня", "Пихта", "Бук"]
+        },
+        {
+            "name": "Capricorn",
+            "language": "en",
+            "description": "Capricorn is the tenth sign of the zodiac. People born under this sign are hardworking, ambitious, and value stability. They possess a strong sense of duty.",
+            "image_url": "https://example.com/images/capricorn_en.jpg",
+            "associated_trees": ["Apple", "Fir", "Beech"]
+        },
+        {
+            "name": "Водолей",
+            "language": "ru",
+            "description": "Водолей — одиннадцатый знак зодиака. Люди, рожденные под этим знаком, оригинальны, независимы и прогрессивны. Они обладают творческим мышлением.",
+            "image_url": "https://example.com/images/aquarius_ru.jpg",
+            "associated_trees": ["Кипарис", "Тополь", "Каркас Южный"]
+        },
+        {
+            "name": "Aquarius",
+            "language": "en",
+            "description": "Aquarius is the eleventh sign of the zodiac. People born under this sign are original, independent, and progressive. They possess creative thinking.",
+            "image_url": "https://example.com/images/aquarius_en.jpg",
+            "associated_trees": ["Cypress", "Poplar", "Southern Hackberry"]
+        },
+        {
+            "name": "Рыбы",
+            "language": "ru",
+            "description": "Рыбы — двенадцатый знак зодиака. Люди, рожденные под этим знаком, чувствительны, интуитивны и мечтательны. Они обладают богатым воображением.",
+            "image_url": "https://example.com/images/pisces_ru.jpg",
+            "associated_trees": ["Сосна", "Ива", "Липа"]
+        },
+        {
+            "name": "Pisces",
+            "language": "en",
+            "description": "Pisces is the twelfth sign of the zodiac. People born under this sign are sensitive, intuitive, and dreamy. They possess a rich imagination.",
+            "image_url": "https://example.com/images/pisces_en.jpg",
+            "associated_trees": ["Pine", "Willow", "Linden"]
+        }
+    ]
+}

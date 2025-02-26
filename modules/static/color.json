@@ -1,0 +1,148 @@
+{
+  "color": {
+    "1": {
+      "ru": "Белый",
+      "en": "White",
+      "de": "Weiß",
+      "fr": "Blanc",
+      "it": "Bianco",
+      "es": "Blanco",
+      "zh": "白色",
+      "hi": "सफेद",
+      "ko": "하얀색",
+      "ar": "أبيض"
+    },
+    "2": {
+      "ru": "Синий",
+      "en": "Blue",
+      "de": "Blau",
+      "fr": "Bleu",
+      "it": "Blu",
+      "es": "Azul",
+      "zh": "蓝色",
+      "hi": "नीला",
+      "ko": "파란색",
+      "ar": "أزرق"
+    },
+    "3": {
+      "ru": "Жёлтый",
+      "en": "Yellow",
+      "de": "Gelb",
+      "fr": "Jaune",
+      "it": "Giallo",
+      "es": "Amarillo",
+      "zh": "黄色",
+      "hi": "पीला",
+      "ko": "노란색",
+      "ar": "أصفر"
+    },
+    "4": {
+      "ru": "Красный",
+      "en": "Red",
+      "de": "Rot",
+      "fr": "Rouge",
+      "it": "Rosso",
+      "es": "Rojo",
+      "zh": "红色",
+      "hi": "लाल",
+      "ko": "빨간색",
+      "ar": "أحمر"
+    },
+    "5": {
+      "ru": "Розовый",
+      "en": "Pink",
+      "de": "Rosa",
+      "fr": "Rose",
+      "it": "Rosa",
+      "es": "Rosa",
+      "zh": "粉红色",
+      "hi": "गुलाबी",
+      "ko": "분홍색",
+      "ar": "وردي"
+    },
+    "6": {
+      "ru": "Голубой",
+      "en": "Light Blue",
+      "de": "Hellblau",
+      "fr": "Bleu clair",
+      "it": "Azzurro",
+      "es": "Celeste",
+      "zh": "浅蓝色",
+      "hi": "हल्का नीला",
+      "ko": "하늘색",
+      "ar": "أزرق فاتح"
+    },
+    "7": {
+      "ru": "Золотой",
+      "en": "Gold",
+      "de": "Gold",
+      "fr": "Or",
+      "it": "Oro",
+      "es": "Dorado",
+      "zh": "金色",
+      "hi": "स्वर्ण",
+      "ko": "금색",
+      "ar": "ذهبي"
+    },
+    "8": {
+      "ru": "Коричневый",
+      "en": "Brown",
+      "de": "Braun",
+      "fr": "Brun",
+      "it": "Marrone",
+      "es": "Marrón",
+      "zh": "棕色",
+      "hi": "भूरा",
+      "ko": "갈색",
+      "ar": "بني"
+    },
+    "9": {
+      "ru": "Зелёный",
+      "en": "Green",
+      "de": "Grün",
+      "fr": "Vert",
+      "it": "Verde",
+      "es": "Verde",
+      "zh": "绿色",
+      "hi": "हरा",
+      "ko": "초록색",
+      "ar": "أخضر"
+    },
+    "10": {
+      "ru": "Оранжевый",
+      "en": "Orange",
+      "de": "Orange",
+      "fr": "Orange",
+      "it": "Arancione",
+      "es": "Naranja",
+      "zh": "橙色",
+      "hi": "नारंगी",
+      "ko": "주황색",
+      "ar": "برتقالي"
+    },
+    "11": {
+      "ru": "Чёрный",
+      "en": "Black",
+      "de": "Schwarz",
+      "fr": "Noir",
+      "it": "Nero",
+      "es": "Negro",
+      "zh": "黑色",
+      "hi": "काला",
+      "ko": "검정색",
+      "ar": "أسود"
+    },
+    "12": {
+      "ru": "Белый",
+      "en": "White",
+      "de": "Weiß",
+      "fr": "Blanc",
+      "it": "Bianco",
+      "es": "Blanco",
+      "zh": "白色",
+      "hi": "सफेद",
+      "ko": "하얀색",
+      "ar": "أبيض"
+    }
+  }
+}

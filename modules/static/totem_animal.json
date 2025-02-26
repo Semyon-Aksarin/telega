@@ -1,0 +1,124 @@
+{
+  "totem_animal": {
+    "Волк": {
+      "ru": "Волк",
+      "en": "Wolf",
+      "de": "Wolf",
+      "fr": "Loup",
+      "it": "Lupo",
+      "es": "Lobo",
+      "zh": "狼",
+      "hi": "भेड़िया",
+      "ko": "늑대",
+      "ar": "الذئب"
+    },
+    "Медведь": {
+      "ru": "Медведь",
+      "en": "Bear",
+      "de": "Bär",
+      "fr": "Ours",
+      "it": "Orso",
+      "es": "Oso",
+      "zh": "熊",
+      "hi": "भालू",
+      "ko": "곰",
+      "ar": "الدب"
+    },
+    "Ястреб": {
+      "ru": "Ястреб",
+      "en": "Hawk",
+      "de": "Falke",
+      "fr": "Faucon",
+      "it": "Falco",
+      "es": "Halcón",
+      "zh": "鹰",
+      "hi": "बाज",
+      "ko": "매",
+      "ar": "الصقر"
+    },
+    "Лиса": {
+      "ru": "Лиса",
+      "en": "Fox",
+      "de": "Fuchs",
+      "fr": "Renard",
+      "it": "Volpe",
+      "es": "Zorro",
+      "zh": "狐狸",
+      "hi": "लोमड़ी",
+      "ko": "여우",
+      "ar": "الثعلب"
+    },
+    "Лев": {
+      "ru": "Лев",
+      "en": "Lion",
+      "de": "Löwe",
+      "fr": "Lion",
+      "it": "Leone",
+      "es": "León",
+      "zh": "狮子",
+      "hi": "सिंह",
+      "ko": "사자",
+      "ar": "الأسد"
+    },
+    "Олень": {
+      "ru": "Олень",
+      "en": "Deer",
+      "de": "Hirsch",
+      "fr": "Cerf",
+      "it": "Cervo",
+      "es": "Ciervo",
+      "zh": "鹿",
+      "hi": "हिरण",
+      "ko": "사슴",
+      "ar": "الغزال"
+    },
+    "Дельфин": {
+      "ru": "Дельфин",
+      "en": "Dolphin",
+      "de": "Delfin",
+      "fr": "Dauphin",
+      "it": "Delfino",
+      "es": "Delfín",
+      "zh": "海豚",
+      "hi": "डॉल्फिन",
+      "ko": "돌고래",
+      "ar": "الدلفين"
+    },
+    "Сова": {
+      "ru": "Сова",
+      "en": "Owl",
+      "de": "Eule",
+      "fr": "Chouette",
+      "it": "Gufo",
+      "es": "Búho",
+      "zh": "猫头鹰",
+      "hi": "उल्लू",
+      "ko": "부엉이",
+      "ar": "البومة"
+    },
+    "Ворон": {
+      "ru": "Ворон",
+      "en": "Raven",
+      "de": "Krähe",
+      "fr": "Corbeau",
+      "it": "Corvo",
+      "es": "Cuervo",
+      "zh": "乌鸦",
+      "hi": "कौआ",
+      "ko": "까마귀",
+      "ar": "الغراب"
+    },
+    "Змея": {
+      "ru": "Змея",
+      "en": "Snake",
+      "de": "Schlange",
+      "fr": "Serpent",
+      "it": "Serpente",
+      "es": "Serpiente",
+      "zh": "蛇",
+      "hi": "साँप",
+      "ko": "뱀",
+      "ar": "الثعبان"
+    }
+  }
+}

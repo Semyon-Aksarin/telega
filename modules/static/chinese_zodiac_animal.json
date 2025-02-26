@@ -1,0 +1,185 @@
+{
+  "chinese_zodiac_animal": [
+  {
+    "name": {
+      "ru": "Крыса",
+      "en": "Rat",
+      "de": "Ratte",
+      "fr": "Rat",
+      "it": "Topo",
+      "es": "Rata",
+      "zh": "鼠",
+      "hi": "चूहा",
+      "ko": "쥐",
+      "ar": "الفأر"
+    },
+    "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Бык",
+      "en": "Ox",
+      "de": "Ochse",
+      "fr": "Bœuf",
+      "it": "Bue",
+      "es": "Buey",
+      "zh": "牛",
+      "hi": "बैल",
+      "ko": "소",
+      "ar": "الثور"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Тигр",
+      "en": "Tiger",
+      "de": "Tiger",
+      "fr": "Tigre",
+      "it": "Tigre",
+      "es": "Tigre",
+      "zh": "虎",
+      "hi": "बाघ",
+      "ko": "호랑이",
+      "ar": "النمر"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Кролик",
+      "en": "Rabbit",
+      "de": "Hase",
+      "fr": "Lapin",
+      "it": "Coniglio",
+      "es": "Conejo",
+      "zh": "兔",
+      "hi": "खरगोश",
+      "ko": "토끼",
+      "ar": "الأرنب"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Дракон",
+      "en": "Dragon",
+      "de": "Drache",
+      "fr": "Dragon",
+      "it": "Drago",
+      "es": "Dragón",
+      "zh": "龙",
+      "hi": "ड्रैगन",
+      "ko": "용",
+      "ar": "التنين"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Змея",
+      "en": "Snake",
+      "de": "Schlange",
+      "fr": "Serpent",
+      "it": "Serpente",
+      "es": "Serpiente",
+      "zh": "蛇",
+      "hi": "साँप",
+      "ko": "뱀",
+      "ar": "الثعبان"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Лошадь",
+      "en": "Horse",
+      "de": "Pferd",
+      "fr": "Cheval",
+      "it": "Cavallo",
+      "es": "Caballo",
+      "zh": "马",
+      "hi": "घोड़ा",
+      "ko": "말",
+      "ar": "الحصان"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Коза",
+      "en": "Goat",
+      "de": "Ziege",
+      "fr": "Chèvre",
+      "it": "Capra",
+      "es": "Cabra",
+      "zh": "羊",
+      "hi": "बकरी",
+      "ko": "염소",
+      "ar": "الماعز"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Обезьяна",
+      "en": "Monkey",
+      "de": "Affe",
+      "fr": "Singe",
+      "it": "Scimmia",
+      "es": "Mono",
+      "zh": "猴",
+      "hi": "बंदर",
+      "ko": "원숭이",
+      "ar": "القرد"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Петух",
+      "en": "Rooster",
+      "de": "Hahn",
+      "fr": "Coq",
+      "it": "Gallo",
+      "es": "Gallo",
+      "zh": "鸡",
+      "hi": "मुर्गा",
+      "ko": "닭",
+      "ar": "الديك"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Собака",
+      "en": "Dog",
+      "de": "Hund",
+      "fr": "Chien",
+      "it": "Cane",
+      "es": "Perro",
+      "zh": "狗",
+      "hi": "कुत्ता",
+      "ko": "개",
+      "ar": "الكلب"
+    },
+      "dates": "21 марта - 19 апреля"
+    },
+    {
+    "name": {
+      "ru": "Свинья",
+      "en": "Pig",
+      "de": "Schwein",
+      "fr": "Cochon",
+      "it": "Maiale",
+      "es": "Cerdo",
+      "zh": "猪",
+      "hi": "सुअर",
+      "ko": "돼지",
+      "ar": "الخنزير"
+    },
+      "dates": "21 марта - 19 апреля"
+
+  }
+  ]
+}

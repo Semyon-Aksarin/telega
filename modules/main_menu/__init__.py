@@ -1,0 +1,1 @@
+from .handlers import register_main_menu_handlers

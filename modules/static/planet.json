@@ -1,0 +1,148 @@
+{
+  "planet": {
+    "Овен": {
+      "ru": "Марс",
+      "en": "Mars",
+      "de": "Mars",
+      "fr": "Mars",
+      "it": "Marte",
+      "es": "Marte",
+      "zh": "火星",
+      "hi": "मंगल",
+      "ko": "화성",
+      "ar": "المريخ"
+    },
+    "Телец": {
+      "ru": "Венера",
+      "en": "Venus",
+      "de": "Venus",
+      "fr": "Vénus",
+      "it": "Venere",
+      "es": "Venus",
+      "zh": "金星",
+      "hi": "शुक्र",
+      "ko": "금성",
+      "ar": "الزهرة"
+    },
+    "Близнецы": {
+      "ru": "Меркурий",
+      "en": "Mercury",
+      "de": "Merkur",
+      "fr": "Mercure",
+      "it": "Mercurio",
+      "es": "Mercurio",
+      "zh": "水星",
+      "hi": "बुध",
+      "ko": "수성",
+      "ar": "عطارد"
+    },
+    "Рак": {
+      "ru": "Луна",
+      "en": "Moon",
+      "de": "Mond",
+      "fr": "Lune",
+      "it": "Luna",
+      "es": "Luna",
+      "zh": "月亮",
+      "hi": "चंद्र",
+      "ko": "달",
+      "ar": "القمر"
+    },
+    "Лев": {
+      "ru": "Солнце",
+      "en": "Sun",
+      "de": "Sonne",
+      "fr": "Soleil",
+      "it": "Sole",
+      "es": "Sol",
+      "zh": "太阳",
+      "hi": "सूर्य",
+      "ko": "태양",
+      "ar": "الشمس"
+    },
+    "Дева": {
+      "ru": "Меркурий",
+      "en": "Mercury",
+      "de": "Merkur",
+      "fr": "Mercure",
+      "it": "Mercurio",
+      "es": "Mercurio",
+      "zh": "水星",
+      "hi": "बुध",
+      "ko": "수성",
+      "ar": "عطارد"
+    },
+    "Весы": {
+      "ru": "Венера",
+      "en": "Venus",
+      "de": "Venus",
+      "fr": "Vénus",
+      "it": "Venere",
+      "es": "Venus",
+      "zh": "金星",
+      "hi": "शुक्र",
+      "ko": "금성",
+      "ar": "الزهرة"
+    },
+    "Скорпион": {
+      "ru": "Плутон",
+      "en": "Pluto",
+      "de": "Pluto",
+      "fr": "Pluton",
+      "it": "Plutone",
+      "es": "Plutón",
+      "zh": "冥王星",
+      "hi": "प्लूटो",
+      "ko": "명왕성",
+      "ar": "بلوتو"
+    },
+    "Стрелец": {
+      "ru": "Юпитер",
+      "en": "Jupiter",
+      "de": "Jupiter",
+      "fr": "Jupiter",
+      "it": "Giove",
+      "es": "Júpiter",
+      "zh": "木星",
+      "hi": "बृहस्पति",
+      "ko": "목성",
+      "ar": "المشتري"
+    },
+    "Козерог": {
+      "ru": "Сатурн",
+      "en": "Saturn",
+      "de": "Saturn",
+      "fr": "Saturne",
+      "it": "Saturno",
+      "es": "Saturno",
+      "zh": "土星",
+      "hi": "शनि",
+      "ko": "토성",
+      "ar": "زحل"
+    },
+    "Водолей": {
+      "ru": "Уран",
+      "en": "Uranus",
+      "de": "Uranus",
+      "fr": "Uranus",
+      "it": "Urano",
+      "es": "Urano",
+      "zh": "天王星",
+      "hi": "अरुण",
+      "ko": "천왕성",
+      "ar": "أورانوس"
+    },
+    "Рыбы": {
+      "ru": "Нептун",
+      "en": "Neptune",
+      "de": "Neptun",
+      "fr": "Neptune",
+      "it": "Nettuno",
+      "es": "Neptuno",
+      "zh": "海王星",
+      "hi": "वरुण",
+      "ko": "해왕성",
+      "ar": "نبتون"
+    }
+  }
+}
